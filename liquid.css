@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+body {
+  background: url(https://splatoon.nintendo.com/assets/img/home/bg-main.png) left;
+}
+body * {
+  box-sizing: border-box;
+}
+.wrapper {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+  height: 100vh;
+}
+button {
+  flex: 1;
+  padding: 25px 50px;
+  margin: 25px;
+  border-radius: 999px;
+  border: 5px solid #284cff;
+  font-family: 'VT323', monospace;
+  font-size: 25px;
+  text-shadow: 0 3px 5px rgba(0, 0, 0, 0.25);
+  white-space: nowrap;
+  color: #fff;
+  cursor: pointer;
+  user-select: none;
+  background: transparent;
+  background-image: url(https://web.archive.org/web/20160312084140im_/http://splatoon.nintendo.com/assets/img/nav-bg-fill-blue.png?1443460871);
+  background-repeat: repeat-x;
+  background-position: 0 -100%;
+  transition: 1.5s ease;
+}
+button:hover {
+  background-position: 500% 100%;
+}
+button:nth-child(1) {
+  filter: hue-rotate(20deg);
+}
+button:nth-child(2) {
+  filter: hue-rotate(40deg);
+}
+button:nth-child(3) {
+  filter: hue-rotate(60deg);
+}
+button:nth-child(4) {
+  filter: hue-rotate(80deg);
+}
+button:nth-child(5) {
+  filter: hue-rotate(100deg);
+}
+button:nth-child(6) {
+  filter: hue-rotate(120deg);
+}
+button:nth-child(7) {
+  filter: hue-rotate(140deg);
+}
+button:nth-child(8) {
+  filter: hue-rotate(160deg);
+}
+button:nth-child(9) {
+  filter: hue-rotate(180deg);
+}
+button:nth-child(10) {
+  filter: hue-rotate(200deg);
+}
+button:nth-child(11) {
+  filter: hue-rotate(220deg);
+}
+button:nth-child(12) {
+  filter: hue-rotate(240deg);
+}
+button:nth-child(13) {
+  filter: hue-rotate(260deg);
+}
+button:nth-child(14) {
+  filter: hue-rotate(280deg);
+}
+button:nth-child(15) {
+  filter: hue-rotate(300deg);
+}
+button:nth-child(16) {
+  filter: hue-rotate(320deg);
+}
+button:nth-child(17) {
+  filter: hue-rotate(340deg);
+}
+button:nth-child(18) {
+  filter: hue-rotate(360deg);
+}
