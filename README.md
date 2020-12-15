@@ -5,7 +5,7 @@
 git clone https://github.com/x44uarbdx/liquidfillbuttons
 cd liquidfillbuttons
 
-<<> Then Open index.html File With Your Browser >>>
+<<< Then Open index.html File With Your Browser >>>
 
 ```
 ## 📓 Language
@@ -28,7 +28,7 @@ cd liquidfillbuttons
  
  Modified By : [@x44uarbdx](https://github.com/x44uarbdx)
 
- Original Developer: Dr. Web [https://codepen.io/drweb/]
+ Original Developer: Dr. Web [ https://codepen.io/drweb]
 
  This Project Was Coded In Pug And SCSS ( Project Name : Splatoon Styled Liquid Fill Buttons)
 
